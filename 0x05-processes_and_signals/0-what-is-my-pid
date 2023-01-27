@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#This script below shows the command to display my pid
+
+pidof su

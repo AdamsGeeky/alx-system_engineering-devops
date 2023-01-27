@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+#This script shows a command that i used to display my bash pid
+# shellcheck disable=SC2009
+
+ps aux | grep bash
