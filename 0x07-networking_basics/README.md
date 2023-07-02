@@ -1,4 +1,4 @@
-# 0x07. Networking basics #0
+# Networking basics
 
 ## In this project I learnt about
 - OSI Model
@@ -23,6 +23,3 @@
   - What is a port
   - Memorize SSH, HTTP and HTTPS port numbers
   - What tool/protocol is often used to check if a device is connected to a network
-
-  ## Useful resources
-  [OSI Model Explained | OSI Animation | Open System Interconnection Model | OSI 7 layers](https://www.youtube.com/watch?v=vv4y_uOneC0)
