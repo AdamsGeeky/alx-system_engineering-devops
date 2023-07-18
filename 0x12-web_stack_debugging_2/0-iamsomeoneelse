@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Run whoami command under a user
+
+sudo -u "$1" whoami
