@@ -1,6 +1,6 @@
-# Postmortem: School Registration Management Website Outage
+# Postmortem (School Registration Management Website Outage)
 
-## Issue Summary:
+## Issue Summary
 
 - **Duration:** The outage occurred on July 25, 2023, starting at 1:00 PM and was resolved within 12 hours (UTC).
 - **Impact:**
